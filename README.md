@@ -1,4 +1,5 @@
 **代码使用方法**
+****
+1. yarn global add parcel 或者 npm i -g parcel
 
-yarn global add parcel 或者 npm i -g parcel
-parcel src/index.html
+2. parcel src/index.html
